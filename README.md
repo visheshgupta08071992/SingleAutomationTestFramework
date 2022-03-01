@@ -3,10 +3,10 @@
 Single Automation Test Framework to Automate Web, Mobile and API
 
 
-##Framework Features:
+#Framework Features:
 ![FrameworkFeautre](img/FrameworkFeatures.png)
 
 
-##Libraries Used:
+#Libraries Used:
 ![Libraries](img/Libraries.png)
 
